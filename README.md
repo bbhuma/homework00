@@ -3,7 +3,9 @@ homework
 commiting from sts 
 
 What are you dng bujji
-git commit/revert
+padma
+git revert 
+git revert 
 
 
 
